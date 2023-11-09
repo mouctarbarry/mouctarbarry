@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <!--
-**mouctarbarry/mouctarbarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+**mouctarbarry/mouctarbarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on automation with IaC tools
 - 🌱 I’m passionate about the DevOps culture
@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Java, spring, jenkins and selenium 
 - 📫 How to reach me: contact@mouctar.tech
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a coding minimalist – one monitor, one mission, and a 27inch canvas for my digital masterpiece. Who needs the chaos of multiple screens anyway ?
+- ⚡ Fun fact: I'm a coding minimalist – one monitor, one mission, and a 27inch canvas for my digital masterpiece. Who needs &nbsp; &nbsp; &nbsp; &nbsp; the chaos of multiple screens anyway 🖥️😄
 
