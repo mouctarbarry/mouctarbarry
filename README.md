@@ -1,4 +1,4 @@
-## Hi there 👋, Im Mouctar
+## Hi there 👋, I'm Mouctar
 
 <!--
 **mouctarbarry/mouctarbarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
