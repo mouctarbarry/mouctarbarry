@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on automation with IaC tools
 - 🌱 I’m passionate about the DevOps culture
-- 👯 I’m looking to collaborate on spring projects
+- 👯 I’m looking to collaborate on spring and .NET projects
 - 🤔 I’m looking for help to Upskilling in cybersec 
 - 💬 Ask me about Java, spring, jenkins and selenium 
 - 📫 How to reach me: contact@mouctar.tech
