@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Mouctar! 👋</h1>
-<h3 align="center">DevOps Enthusiast | Automation Builder | Coding Minimalist</h3>
+<h3 align="center">DevOps Enthusiast | Automation Builder | Cybersec learner</h3>
 
 <p align="center">
   <a href="mailto:contact.mouctar@gmail.com">
