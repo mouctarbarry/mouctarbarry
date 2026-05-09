@@ -1,32 +1,22 @@
 <div align="center">
 
 <!-- WAVE HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1b27,100:70a5fd&height=220&section=header&text=Mouctar%20Barry&fontSize=50&fontColor=70a5fd&fontAlignY=35&desc=DevOps%20Engineer%20|%20Automation%20Enthusiast%20|%20Cybersecurity%20Upskiller&descSize=18&descColor=ffffff&descAlignY=55&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1b27,100:70a5fd&height=220&section=header&text=Mouctar%20Barry&fontSize=50&fontColor=70a5fd&fontAlignY=35&desc=DevOps%20Engineer%20|%20Cloud%20Builder%20|%20Cybersecurity%20Upskiller&descSize=18&descColor=ffffff&descAlignY=55&animation=fadeIn" alt="header" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%F0%9F%9A%80+Automating+everything%2C+one+pipeline+at+a+time;%E2%98%81%EF%B8%8F+Building+resilient+cloud+infrastructure;%F0%9F%94%90+Learning+cybersecurity+to+secure+it+all" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Automating+everything%2C+one+pipeline+at+a+time;%E2%98%81%EF%B8%8F+Building+resilient+cloud+infrastructure;%F0%9F%94%90+Upskilling+in+cybersecurity+to+secure+it+all" alt="Typing SVG" />
 </a>
-
-<br/>
 
 <!-- SOCIAL BADGES -->
 [![Email](https://img.shields.io/badge/Email-contact.mouctar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.mouctar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mouctarbarry)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mouctarbarry)
 
-<br/>
 
 <!-- PROFILE VIEWS -->
 <img src="https://komarev.com/ghpvc/?username=mouctarbarry&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS" alt="Profile Views" />
 
-<!--
-  ℹ️ How profile views works:
-  komarev/github-profile-views-counter uses a 1x1 pixel image hosted on a server.
-  Each time someone loads your README (i.e. visits your profile), the image URL is
-  requested, and the server increments a counter tied to your username.
-  It's essentially a classic web beacon / tracking pixel technique.
--->
 
 </div>
 
@@ -42,7 +32,7 @@
 ```yaml
 name: Mouctar Barry
 role: DevOps Engineer
-location: France 🇫🇷
+location: Paris, France
 currently_working_on: Automation with IaC tools (Terraform, Ansible)
 passionate_about: DevOps culture — bridging the gap between Dev and Ops
 looking_to_collaborate_on: Spring & React projects
@@ -53,7 +43,7 @@ fun_fact: One monitor, one mission, 27 inches of pure focus 🖥️
 ---
 
 <!-- TECH STACK -->
-<div align="center">
+<div >
 
 ### 🛠️ Tech Stack & Tools
 
