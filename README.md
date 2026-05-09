@@ -7,6 +7,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Automating+everything%2C+one+pipeline+at+a+time;%E2%98%81%EF%B8%8F+Building+resilient+cloud+infrastructure;%F0%9F%94%90+Upskilling+in+cybersecurity+to+secure+it+all" alt="Typing SVG" />
 </a>
+<br>
 
 <!-- SOCIAL BADGES -->
 [![Email](https://img.shields.io/badge/Email-contact.mouctar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.mouctar@gmail.com)
@@ -29,7 +30,8 @@
 
 </div>
 
-```yaml
+<pre style="font-family: 'JetBrains Mono', monospace; font-size: 14px; font-weight: 500; text-align: left;">
+<code>
 name: Mouctar Barry
 role: DevOps Engineer
 location: Paris, France
@@ -38,7 +40,8 @@ passionate_about: DevOps culture — bridging the gap between Dev and Ops
 looking_to_collaborate_on: Spring & React projects
 learning: Cybersecurity 🔐
 fun_fact: One monitor, one mission, 27 inches of pure focus 🖥️
-```
+</code>
+</pre>
 
 ---
 
