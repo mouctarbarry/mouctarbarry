@@ -26,31 +26,29 @@
 <!-- ABOUT ME -->
 <div align="center">
 
-### 👨‍💻 About Me
+### About Me
 
 </div>
 
-<pre style="font-family: 'JetBrains Mono', monospace; font-size: 14px; font-weight: 500; text-align: left;">
-<code>
+```yaml
 name: Mouctar Barry
 role: DevOps Engineer
 location: Paris, France
 currently_working_on: Automation with IaC tools (Terraform, Ansible)
 passionate_about: DevOps culture — bridging the gap between Dev and Ops
 looking_to_collaborate_on: Spring & React projects
-learning: Cybersecurity 🔐
-fun_fact: One monitor, one mission, 27 inches of pure focus 🖥️
-</code>
-</pre>
+learning: Cybersecurity
+fun_fact: One monitor, one mission, 27 inches of pure focus
+```
 
 ---
 
 <!-- TECH STACK -->
 <div >
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
-#### 🖥️ Languages
+#### Languages
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,py,js,ts,c,cpp,cs,bash" alt="Languages" />
 </a>
@@ -60,7 +58,7 @@ fun_fact: One monitor, one mission, 27 inches of pure focus 🖥️
   <img src="https://skillicons.dev/icons?i=react,angular,next,html,css,bootstrap" alt="Frontend" />
 </a>
 
-#### ⚙️ Backend & Frameworks
+#### Backend & Frameworks
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=spring,nodejs,dotnet,kafka" alt="Backend" />
 </a>
@@ -70,7 +68,7 @@ fun_fact: One monitor, one mission, 27 inches of pure focus 🖥️
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Databases" />
 </a>
 
-#### 🔧 DevOps & CI/CD
+#### DevOps & CI/CD
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,ansible,terraform,githubactions,gitlab" alt="DevOps" />
 </a>
@@ -80,7 +78,7 @@ fun_fact: One monitor, one mission, 27 inches of pure focus 🖥️
   <img src="https://skillicons.dev/icons?i=aws,azure,grafana,prometheus" alt="Cloud" />
 </a>
 
-#### 🧰 Tools & Environment
+#### Tools & Environment
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=linux,git,vim,vscode,idea,selenium" alt="Tools" />
 </a>
@@ -98,14 +96,14 @@ fun_fact: One monitor, one mission, 27 inches of pure focus 🖥️
 
 > **I'm a coding minimalist.** <br/>
 > One monitor, one mission, and a 27-inch canvas for my digital masterpieces. <br/>
-> Who needs the chaos of multiple screens anyway? 🖥️😄
+> Who needs the chaos of multiple screens anyway? 😀
 
 ---
 
 <!-- GITHUB STATS -->
 <div align="center">
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mouctarbarry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=70a5fd&text_color=ffffff&ring_color=70a5fd" alt="GitHub Stats" height="170" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mouctarbarry&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&text_color=ffffff" alt="Top Languages" height="170" />
