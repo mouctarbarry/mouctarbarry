@@ -37,7 +37,7 @@ location: Paris, France
 currently_working_on: Automation with IaC tools (Terraform, Ansible)
 passionate_about: DevOps culture — bridging the gap between Dev and Ops
 looking_to_collaborate_on: Spring & React projects
-learning: Cybersecurity
+upskilling: Cybersecurity
 ```
 
 ---
